@@ -1,5 +1,6 @@
 body {
     background-color: lightblue;
+    color: white;
 }
 h1 {
     color: blue;
@@ -12,4 +13,7 @@ img{
 }
 *{
     text-align= center;
+}
+footer{
+    font-family: cursive;
 }
