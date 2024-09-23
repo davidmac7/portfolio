@@ -6,15 +6,11 @@ body {
     width:50%;
     margin-left:25%;
     text-align: center;
-    height: 50px;
-    width: 50px
     font-weight:800px;
 }
 
 .minor{
-     width:50%;
-    margin-left:25%;
-    border: 20px;
+    border: 10px;
     font-family: cursive;
     text-align: center;
 }
