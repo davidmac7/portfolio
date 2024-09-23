@@ -14,8 +14,7 @@ body {
 .minor{
      width:50%;
     margin-left:25%;
-    height: 50px;
-    width: 50px
+    border: 20px;
     font-family: cursive;
     text-align: center;
 }
