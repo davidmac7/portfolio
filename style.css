@@ -1,7 +1,4 @@
-body {
-    background-color: lightblue;
-    color: white;
-}
+
 .main{
     width:50%;
     margin-left:25%;
@@ -12,7 +9,11 @@ body {
 .minor{
     border: 10px;
     padding: 20px;
-    margin: 30px;
+    margin-top: 100px;
     font-family: cursive;
     text-align: center;
+}
+body {
+    background-color: lightblue;
+    color: white;
 }
